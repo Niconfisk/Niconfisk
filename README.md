@@ -1,7 +1,9 @@
 ## Salve, Niconfisk! 👋
 - 🌱 Estudante do IFPB - CZ 
 - 😄 Pronomes: ele/dele
+- My online CV: https://niconfisk.github.io/Curriculo/
 ##
+
 <div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niconfisk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Niconfisk&layout=compact&langs_count=8&theme=algolia"/&gt;>
@@ -17,9 +19,3 @@ Estudante do 3º ano em **Técnico em Informática Integrado ao Ensino Médio** 
 - Estou constantemente aprendendo mais sobre **desenvolvimento back-end**, especialmente em frameworks como Flask.
 - Explorando novas ferramentas para **automação de desenvolvimento** e **gestão de projetos**.
 
-### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/nicolas-tavaress)
-- [E-mail](mailto:nicolas.emidio@academico.ifpb.edu.br)
-
-### 🌐 Meu Portfólio
-Você pode conferir meu currículo online publicado no GitHub Pages [aqui](https://niconfisk.github.io/Curriculo/).
