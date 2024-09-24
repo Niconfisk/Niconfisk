@@ -14,7 +14,7 @@ Sou um estudante do 3º ano em **Técnico em Informática Integrado ao Ensino M�
 - Aberto a colaborar em projetos de desenvolvimento web, automação e integração de APIs.
 
 ### 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/nicolas-tavaress)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-tavaress)
 - [E-mail](mailto:nicolas.emidio@academico.ifpb.edu.br)
 
 ### 📊 Minhas Estatísticas no GitHub
