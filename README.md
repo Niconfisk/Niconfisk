@@ -17,5 +17,5 @@
 </div>
 
 ## Troféus do GitHub 🏆
- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Niconfisk&theme=onedark">
+ <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Niconfisk&theme=algolia">
 
