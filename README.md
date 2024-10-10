@@ -9,13 +9,13 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Niconfisk&layout=compact&langs_count=8&theme=algolia"/&gt;>
 </div>
 
-Estudante do 3º ano em **Técnico em Informática Integrado ao Ensino Médio** no **IFPB**, apaixonado por tecnologia e desenvolvimento de software. Bem-vindo ao meu perfil no GitHub! Aqui você encontrará diversos projetos que refletem minha jornada no mundo da tecnologia.
+<div style="display: inline_block"><br>
+  <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
+  <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
+</div>
 
-### 🔭 Foco Atual
-- Trabalhando em projetos de desenvolvimento web utilizando **Flask** e **SQLite**.
-- Melhorando meus conhecimentos em tecnologias front-end como **HTML** e **CSS**.
-
-### 🌱 Aprendendo
-- Estou constantemente aprendendo mais sobre **desenvolvimento back-end**, especialmente em frameworks como Flask.
-- Explorando novas ferramentas para **automação de desenvolvimento** e **gestão de projetos**.
+## Troféus do GitHub 🏆
+ <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Niconfisk&theme=onedark">
 
