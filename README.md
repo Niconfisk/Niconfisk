@@ -1,6 +1,5 @@
 ## Salve, Niconfisk! 👋
 - 🌱 Estudante do IFPB - CZ 
-- 😄 Pronomes: ele/dele
 - My online CV: https://niconfisk.github.io/Curriculo/
 ##
 
